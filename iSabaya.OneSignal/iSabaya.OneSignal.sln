@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSabaya.OneSignal", "iSabaya.OneSignal.csproj", "{7BFE1BD0-6105-4004-9709-B8EC21F3A282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iSabaya.OneSignal.Test", "..\iSabaya.OneSignal.Test\iSabaya.OneSignal.Test.csproj", "{8AA99D44-5C11-4299-8289-710B1A6C8890}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BFE1BD0-6105-4004-9709-B8EC21F3A282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BFE1BD0-6105-4004-9709-B8EC21F3A282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BFE1BD0-6105-4004-9709-B8EC21F3A282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BFE1BD0-6105-4004-9709-B8EC21F3A282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AA99D44-5C11-4299-8289-710B1A6C8890}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA99D44-5C11-4299-8289-710B1A6C8890}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA99D44-5C11-4299-8289-710B1A6C8890}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA99D44-5C11-4299-8289-710B1A6C8890}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3CD63B97-51E1-42C3-84D6-C1E6D12BC8AC}
+	EndGlobalSection
+EndGlobal
